@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Echarde")]
-[assembly: AssemblyDescription("Azure table storage secondary indices library")]
+[assembly: AssemblyDescription("Microsoft Azure table storage secondary indices library")]
 [assembly: AssemblyConfiguration(".NET Framework")]
 [assembly: AssemblyCompany("Akakani")]
 [assembly: AssemblyProduct("Echarde")]

@@ -1,7 +1,7 @@
 ﻿{
   "version": "1.0.0-*",
   "authors": [ "Gilles Zunino" ],
-  "description": "Azure table storage secondary indices library for NetCore",
+  "description": "Microsoft Azure table storage secondary indices library for NetCore",
 
   "dependencies": {
     "NETStandard.Library": "1.6.0"

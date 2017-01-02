@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echarde.Net46", "src\Echard
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Echarde.NetStandard", "src\Echarde.NetStandard\Echarde.NetStandard.xproj", "{CAB55590-5C03-4721-8695-79FD194DB3AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echarde.Tests.Net46", "test\Echarde.Tests.Net46\Echarde.Tests.Net46.csproj", "{A5451076-8F45-4ED8-91AE-3D5B2CC68071}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CAB55590-5C03-4721-8695-79FD194DB3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB55590-5C03-4721-8695-79FD194DB3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB55590-5C03-4721-8695-79FD194DB3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5451076-8F45-4ED8-91AE-3D5B2CC68071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5451076-8F45-4ED8-91AE-3D5B2CC68071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5451076-8F45-4ED8-91AE-3D5B2CC68071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5451076-8F45-4ED8-91AE-3D5B2CC68071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
