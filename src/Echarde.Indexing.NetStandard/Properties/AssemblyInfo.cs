@@ -6,11 +6,11 @@ using System;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Echarde")]
+[assembly: AssemblyTitle("Echarde Indexing")]
 [assembly: AssemblyDescription("Microsoft Azure table storage secondary indices library")]
-[assembly: AssemblyConfiguration(".NET Framework")]
+[assembly: AssemblyConfiguration("NETCore")]
 [assembly: AssemblyCompany("Akakani")]
-[assembly: AssemblyProduct("Echarde")]
+[assembly: AssemblyProduct("Echarde Indexing")]
 [assembly: AssemblyCopyright("Copyright © Gilles Zunino 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

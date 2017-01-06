@@ -19,7 +19,7 @@
 
   "buildOptions": {
     "define": [ "NETCORE" ],
-    "outputName": "Echarde",
+    "outputName": "Echarde.Indexing",
     "debugType": "portable",
     "compile": [
       "**/*.cs",

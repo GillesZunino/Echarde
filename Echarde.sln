@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echarde.Net46", "src\Echarde.Net46\Echarde.Net46.csproj", "{F2F59328-84A2-4FC4-A720-1205A6F6CE77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echarde.Indexing.Net46", "src\Echarde.Indexing.Net46\Echarde.Indexing.Net46.csproj", "{F2F59328-84A2-4FC4-A720-1205A6F6CE77}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Echarde.NetStandard", "src\Echarde.NetStandard\Echarde.NetStandard.xproj", "{CAB55590-5C03-4721-8695-79FD194DB3AD}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Echarde.Indexing.NetStandard", "src\Echarde.Indexing.NetStandard\Echarde.Indexing.NetStandard.xproj", "{CAB55590-5C03-4721-8695-79FD194DB3AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echarde.Tests.Net46", "test\Echarde.Tests.Net46\Echarde.Tests.Net46.csproj", "{A5451076-8F45-4ED8-91AE-3D5B2CC68071}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echarde.Indexing.Tests.Net46", "test\Echarde.Indexing.Tests.Net46\Echarde.Indexing.Tests.Net46.csproj", "{A5451076-8F45-4ED8-91AE-3D5B2CC68071}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

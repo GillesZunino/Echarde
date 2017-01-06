@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Echarde.Tests.Net46
+namespace Echarde.Indexing.Tests.Net46
 {
     [TestClass]
     public class UnitTest1
