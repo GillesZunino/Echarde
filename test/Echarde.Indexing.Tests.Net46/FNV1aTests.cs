@@ -3,10 +3,14 @@
 // -----------------------------------------------------------------------------------
 
 using System.Text;
+using Echarde.Indexing.Hashing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Echarde.Indexing.Tests.Net46
 {
+    /// <summary>
+    /// FNV1a unit tests.
+    /// </summary>
     [TestClass]
     public class FNV1aTests
     {

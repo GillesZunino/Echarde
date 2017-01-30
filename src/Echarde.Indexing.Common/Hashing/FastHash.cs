@@ -4,7 +4,7 @@
 
 using System.Text;
 
-namespace Echarde.Indexing
+namespace Echarde.Indexing.Hashing
 {
     /// <summary>
     /// Calculates FastHash - See https://github.com/rurban/smhasher

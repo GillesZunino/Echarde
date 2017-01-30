@@ -4,7 +4,7 @@
 
 using System.Text;
 
-namespace Echarde.Indexing
+namespace Echarde.Indexing.Hashing
 {
     /// <summary>
     /// Calculates the Fowler-Noll-Vo Hash (FNV1a) - http://www.isthe.com/chongo/tech/comp/fnv/index.html#FNV-1a
@@ -20,6 +20,8 @@ namespace Echarde.Indexing
         /// Default FNV1a 64 seed.
         /// </summary>
         public const ulong FNV1A_64_INIT = 0xcbf29ce484222325UL;
+
+
 
         /// <summary>
         /// Computes the 32-bit FNV1a hash.

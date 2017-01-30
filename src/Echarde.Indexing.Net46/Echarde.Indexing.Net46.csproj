@@ -68,6 +68,9 @@
   <ItemGroup>
     <!-- Root -->
     <Compile Include="..\Echarde.Indexing.Common\*.cs" />
+    <Compile Include="..\Echarde.Indexing.Common\Hashing\*.cs">
+      <Link>Hashing\Hashing</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -5,6 +5,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Echarde.Indexing.Hashing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Echarde.Indexing.Tests.Net46
