@@ -8,7 +8,7 @@ using System.Text;
 using Echarde.Indexing.Hashing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Echarde.Indexing.Tests.Net46
+namespace Echarde.Indexing.Tests
 {
     /// <summary>
     /// FastHash unit tests.
