@@ -18,5 +18,10 @@ namespace Echarde.Indexing.Hashing
         /// FNV1a hashing strategy.
         /// </summary>
         public static readonly FNV1aStrategy FNV1aStrategy = new FNV1aStrategy();
+
+        /// <summary>
+        /// xxHash64 hashing strategy.
+        /// </summary>
+        public static readonly xxHash64Strategy xxHash64Strategy = new xxHash64Strategy();
     }
 }
